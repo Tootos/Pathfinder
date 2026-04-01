@@ -1,0 +1,6 @@
+@Pathfinder_HostAddress = http://localhost:5270
+
+GET {{Pathfinder_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
